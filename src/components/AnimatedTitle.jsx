@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import gsap from "gsap";
 import { useEffect, useRef } from "react";
 
